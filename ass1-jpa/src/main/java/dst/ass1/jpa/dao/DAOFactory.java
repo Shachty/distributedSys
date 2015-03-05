@@ -32,7 +32,7 @@ public class DAOFactory {
 	}
 
 	public IVirtualSchoolDAO getVirtualSchoolDAO() {
-		// TODO
+		// TODOuizuzui
 		return null;
 	}
 
