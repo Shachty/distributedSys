@@ -22,12 +22,12 @@ public class DAOFactory {
 	}
 
 	public IMOCPlatformDAO getPlatformDAO() {
-		// TODOpp
+		// TODO
 		return null;
 	}
 
 	public IModeratorDAO getModeratorDAO() {
-		// TODO
+		// TODOjkhkhigligrthr
 		return null;
 	}
 
