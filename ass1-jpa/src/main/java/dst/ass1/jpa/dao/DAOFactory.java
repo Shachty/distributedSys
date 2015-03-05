@@ -26,6 +26,11 @@ public class DAOFactory {
 		return null;
 	}
 
+    public IMOCPlatformDAO getPlatformDAO() {
+        // TODOsfsf
+        return fsf;sfs
+    }
+
 	public IModeratorDAO getModeratorDAO() {
 		// TODOjkhkhigligrthr
 		return null;
